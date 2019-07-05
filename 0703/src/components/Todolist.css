@@ -1,0 +1,37 @@
+.content {
+  font-size: 16px;
+  padding: 10px;
+}
+ul{
+  list-style: none;
+}
+.search {
+  margin-bottom: 30px;
+  width: 500px;
+}
+
+.container {
+  margin: 20px;
+  width: 500px;
+  text-align: left;
+}
+
+li {
+  margin-top: 5px;
+  margin-left: 30px;
+}
+
+
+.title {
+  font-weight: 700;
+}
+
+.grayli {
+  color: #ccc;
+}
+
+.grayli span {
+  text-decoration: line-through;
+}
+
+
